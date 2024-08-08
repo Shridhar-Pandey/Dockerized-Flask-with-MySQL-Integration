@@ -2,10 +2,6 @@
 "A simple Flask app containerized with Docker, integrating MySQL for backend data storage, allowing users to submit and view messages."
 
 
-# Dockerized Flask with MySQL Integration
-
-This project demonstrates a simple Flask application integrated with a MySQL database, containerized using Docker. The app allows users to submit messages, which are then stored in the database and displayed on the frontend.
-
 ## Prerequisites
 
 Before getting started, ensure you have the following tools installed on your machine:
